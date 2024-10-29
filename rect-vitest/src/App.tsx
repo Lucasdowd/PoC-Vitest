@@ -5,9 +5,8 @@ function App() {
   return(
     <div>
       <Prueba title="Mas información">
-      <p>Muestra de información que nos deja realizar la muestra de que vitest funciona</p>  
+      <p>Muestra que nos deja realizar la muestra de que vitest funciona</p>  
       </Prueba>
-
       <Card>
       </Card>
       </div>

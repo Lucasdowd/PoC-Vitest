@@ -13,8 +13,8 @@ describe("Prueba", ()=>{
 
     beforeEach(()=>{
         render(<Prueba title="hola">
-            <h3>My content</h3>
-            <p>some </p>
+            <h3>content</h3>
+            <p></p>
         </Prueba>
         );
     })
